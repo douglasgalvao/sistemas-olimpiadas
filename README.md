@@ -15,16 +15,16 @@
 
 
 ### Diagrama de classes
-<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
+<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/master/imagens/diagrama-de-classes.png"/>
 
 ### Diagrama de pacotes
-<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/main/imagens/diagrama-de-pacotes.png"/>
+<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/master/imagens/diagrama-de-pacotes.png"/>
 
 ### Diagrama caso de uso
-<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/main/imagens/diagrama-caso-de-uso.png"/>
+<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/master/imagens/diagrama-caso-de-uso.png"/>
 
 ### Diagrama de componentes
-<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/main/imagens/diagrama-de-componentes.png"/>
+<img width="800px" height="500px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/master/imagens/diagrama-de-componentes.png"/>
 
 ### Diagrama de implantação
-<img width="800px" height="400px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/main/imagens/diagrama-de-implantacao.png"/>
+<img width="800px" height="400px" src="https://github.com/douglasgalvao/sistemas-olimpiadas/blob/master/imagens/diagrama-de-implantacao.png"/>
